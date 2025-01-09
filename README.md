@@ -2,7 +2,6 @@
 
 Graph Representation:
 Locations are represented as nodes. 
-
 Roads between locations are represented as edges with distances by users.
 Road conditions (traffic or blockages) are handled via a RoadCondition structure userdefined.
 
@@ -12,4 +11,4 @@ Takes road conditions (traffic and blockages) into account.
 
 User Input:
 The user inputs the start and end locations.
-The system calculates the shortest path and displays it.
+The system calculates the shortest path , traffic delay and condition of Roadblockage.
