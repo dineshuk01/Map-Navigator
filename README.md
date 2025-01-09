@@ -1,7 +1,8 @@
 # Map-Navigator
 
 Graph Representation:
-Locations are represented as nodes.
+Locations are represented as nodes. 
+
 Roads between locations are represented as edges with distances by users.
 Road conditions (traffic or blockages) are handled via a RoadCondition structure userdefined.
 
